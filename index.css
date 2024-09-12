@@ -1,0 +1,61 @@
+body{
+
+
+    background-color:#1d1d1d;
+}
+h1{
+ display:inline;
+    font-size: 200px;
+}
+#dot{
+
+color:#e35858;
+}
+#name{
+
+  color:#939393;
+}
+#one{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:98vh;
+   width:98vw;
+    border:2px solid;
+   
+}
+
+#two{
+border:2px solid;
+height:98vh ;
+width:98vw;
+border-radius: 15px;
+background-color: #676767;
+
+}
+#three{
+   border-radius:15px;
+    border:2px solid;
+    height:98vh ;
+    width:98vw;
+   background-color: #e35858;
+
+
+}
+h3{
+
+    display:inline;
+    
+}
+.box{
+
+    border:2px solid white;
+  height: 320px;
+    width:250px;
+}
+#two{
+display:flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+}
